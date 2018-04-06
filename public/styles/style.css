@@ -532,5 +532,6 @@ body {
   max-width: 900px;
   margin: 0 auto; }
 
-body {
-  background: red; }
+.veggie {
+  font-size: 100px;
+  margin: 10px; }
